@@ -1,0 +1,16 @@
+# 大标题
+//div[@class="clearfix"]//h3[@class="tit02"]	#29
+//div[@class="clearfix"]//h3[@class="tit02"]/a/text()	#26		@@
+//div[@class="clearfix"]//h3/span/text()	#02
+//div[@class="clearfix"]//h3/text()		#01
+
+# url
+//div[@class="clearfix"]//h3[@class="tit02"]/a/@href	#26		@@
+
+
+
+# 小标题
+//div[@class="clearfix"]//ul[@class="list01"]//a/text()		#379
+# url
+//div[@class="clearfix"]//ul[@class="list01"]//a/@href		#379
+# 
