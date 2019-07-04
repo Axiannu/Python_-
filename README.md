@@ -1,6 +1,8 @@
 # Python_Spider_Warehouse
 多个爬虫脚本库
 将爬虫实践作品储存于库内，以便巩固学习经验。
+- 掌握requests、正则表达式等
+- 了解Ajax数据，利用offset切换页面数据、利用时间戳的秒级别以及毫秒级别进行参数限制。
 
 ## python3
 #### [片源网](https://github.com/Axiannu/Python_Spider_Warehouse/tree/master/python3/%E7%89%87%E6%BA%90%E7%BD%91) 
