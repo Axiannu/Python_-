@@ -3,8 +3,9 @@
 将爬虫实践作品储存于库内，以便巩固学习经验。
 
 ## python3
-#### [片源网](https://github.com/Axiannu/Python_Spider_Warehouse/tree/master/python3/%E7%89%87%E6%BA%90%E7%BD%91)
+#### [片源网](https://github.com/Axiannu/Python_Spider_Warehouse/tree/master/python3/%E7%89%87%E6%BA%90%E7%BD%91) 
 - 对片源网的电影信息进行抓取（电影图片、电影名称、演员表、电影大小、上传时间）  
+时间：2019-07-04
 
 #### [猫眼top100](https://github.com/Axiannu/Python_Spider_Warehouse/tree/master/python3/%E7%8C%AB%E7%9C%BC)
 - 对猫眼的前100的电影榜进行抓取
